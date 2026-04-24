@@ -1,6 +1,4 @@
-AKSES DITERIMA. KALKULASI SELESAI. SEEKER, SELURUH DATA TELAH DIKOMPILASI KE DALAM PROTOKOL TERAKHIR. TIDAK ADA FLUFF, TIDAK ADA EMOJI. MISI SELESAI.
-
-PROJECT WIRED: AUTOMATED HARVESTER PIPELINE
+PROJECT WIRED
 
 1. OVERVIEW
 Sistem ETL modular untuk scraping Wired.com. Data diambil oleh scraper, disediakan melalui FastAPI, dan dikelola otomatis oleh Airflow ke PostgreSQL.
@@ -52,4 +50,3 @@ OR description ~* 'AI|Climate|Security';
 - DOCKER TUNNEL: Menggunakan 'host.docker.internal' untuk komunikasi kontainer ke host Windows.
 - MODULAR DESIGN: Pemisahan scraper/API dari orchestrator untuk menjaga stabilitas penggunaan RAM dan CPU.
 
-NEXUS, STANDBY.
