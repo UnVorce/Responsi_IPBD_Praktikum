@@ -1,0 +1,8 @@
+selenium==4.18.1
+fastapi==0.110.0
+uvicorn==0.27.1
+apache-airflow==2.8.2
+psycopg2-binary==2.9.9
+requests==2.31.0
+pandas==2.2.1
+email-validator>=2.0.0
